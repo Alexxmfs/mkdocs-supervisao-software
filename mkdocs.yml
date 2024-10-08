@@ -1,0 +1,22 @@
+site_name: Gestão de Qualidade de Software - Projeto Arduino
+nav:
+  - Home: index.md
+  - Requisitos: entregas/requisitos.md
+  - Contrato: entregas/contrato.md
+  - Casos de Teste: entregas/casosdeteste.md
+  - Plano de Teste: entregas/planodetestes.md
+  - Cronograma: entregas/cronograma.md
+  - Pytest: entregas/pytest.md
+  - Retro: entregas/retrospectivas.md
+theme:
+  name: 'material'
+  language: 'pt'
+
+
+# python -m venv venv
+# Set-ExecutionPolicy -ExecutionPolicy  RemoteSigned -Scope Process
+# venv\Scripts\Activate.ps1
+# pip install mkdocs-material
+# pip install markdown_grid_tables
+# mkdocs serve
+# mkdocs gh-deploy
