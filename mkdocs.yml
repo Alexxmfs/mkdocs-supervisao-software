@@ -1,12 +1,13 @@
 site_name: Gestão de Qualidade de Software - Projeto Arduino
 nav:
   - Home: index.md
-  - Requisitos: entregas/requisitos.md
+  - Sobre: entregas/sobre.md
   - Contrato: entregas/contrato.md
+  - Requisitos: entregas/requisitos.md
   - Casos de Teste: entregas/casosdeteste.md
   - Plano de Teste: entregas/planodetestes.md
-  - Cronograma: entregas/cronograma.md
   - Pytest: entregas/pytest.md
+  - Cronograma: entregas/cronograma.md
   - Retro: entregas/retrospectivas.md
 theme:
   name: 'material'
